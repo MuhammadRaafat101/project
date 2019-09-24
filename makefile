@@ -25,4 +25,6 @@ app.exe : $(OBJECTS)
 clear : 
 	rm $(CLEAN_TARGET)
 
+
+
 all : $(LINK_TARGET)
